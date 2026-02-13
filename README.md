@@ -39,7 +39,7 @@ No shortcuts. No copy-paste without understanding.
 
 ## Progress Log
 - 04/02/2026: Chapter 01 – Python Basics completed (input, output, variables)
-
+- 13/02/2026: Chapter 02 - Flow Control (booleans, conditionals, loops, break/continue)
 ---
 
 ## Source
